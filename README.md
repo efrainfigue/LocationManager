@@ -17,7 +17,8 @@ INTULocationManager makes it easy to request both the device's current location,
 
 1.	Add the pod `INTULocationManager` to your [Podfile](http://guides.cocoapods.org/using/the-podfile.html).
 
-  ```ruby
+  ```Ruby
+
   pod 'INTULocationManager'
   ```
 
